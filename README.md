@@ -1,4 +1,4 @@
-# socket_chatroom_1
+# Socket_chatroom_1
 * This is simple chat application
 # Run
 * Start server.py and then client.py
