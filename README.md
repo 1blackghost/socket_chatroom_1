@@ -1,6 +1,6 @@
 # socket_chatroom_1
-This is simple chat application
+'''This is simple chat application''''
 # Run
-=>Start server.py and then client.py
+'''=>Start server.py and then client.py
 =>Multiple clients connectivity 
-=>Listening on 127.0.0.1
+=>Listening on 127.0.0.1'''
